@@ -1,0 +1,6 @@
+I am teaching how to use git course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Git","number":"3","start":515.6,"end":517.6,"text":" So staging means"},{"title":"Git","number":"3","start":47.6,"end":52.8,"text":" what is staging, I will tell you in desi layman language, I guarantee you will understand"},{"title":"Git","number":"9","start":7.2,"end":10.0,"text":" Today I will tell you how to skip the staging area."},{"title":"Git Diff","number":"8","start":189.6,"end":191.6,"text":" So this is staging area"},{"title":"Git","number":"3","start":535.6,"end":537.6,"text":" So staging process"}]
+---------------------------------
+"where is staging and unstaging taught in this course?"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course

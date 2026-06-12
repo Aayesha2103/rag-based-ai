@@ -1,0 +1,7 @@
+You're having some trouble understanding when staging and unstaging are covered in our course. Don't worry, I'm here to help!
+
+Staging is actually discussed in a few different videos, but one of the main times it's covered is in Video 3. If you want to see how staging works in more detail, you can jump straight to that video at around 47 seconds into the intro (that's where we define what staging means). 
+
+However, if you're looking for tips on skipping the staging area entirely, then you might be interested in watching Video 9. We briefly touch upon this topic at around 7 seconds into the video (so you can quickly get an idea of how to skip staging).
+
+If you're still unsure about either of these topics or have more questions, feel free to ask!
