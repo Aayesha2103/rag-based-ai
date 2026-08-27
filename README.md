@@ -164,7 +164,8 @@ Future improvements
 Aayesha Singh
 
 AI / ML & Data Science Enthusiast
-🔗 **[GitHub Profile](https://github.com/Aayesha2103)**
+
+🔗 [GitHub Profile](https://github.com/Aayesha2103)
 
 ⭐ Project Repository
-🚀 **[View RAG-Based AI Project →](https://github.com/Aayesha2103/rag-based-ai)**
+🚀 [View RAG-Based AI Project →](https://github.com/Aayesha2103/rag-based-ai)
