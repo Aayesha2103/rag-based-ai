@@ -164,6 +164,7 @@ Future improvements
 Aayesha Singh
 
 AI / ML & Data Science Enthusiast
-[![GitHub](https://img.shields.io/badge/GitHub-Aayesha2103-black?style=for-the-badge&logo=github)](https://github.com/Aayesha2103)
+🔗 **[GitHub Profile](https://github.com/Aayesha2103)**
+
 ⭐ Project Repository
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-RAG--Based%20AI-blue?style=for-the-badge)](https://github.com/Aayesha2103/rag-based-ai)
+🚀 **[View RAG-Based AI Project →](https://github.com/Aayesha2103/rag-based-ai)**
