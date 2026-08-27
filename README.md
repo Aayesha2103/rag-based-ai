@@ -173,24 +173,6 @@ python process_incoming.py
 
 ---
 
-## 📖 Documentation
-
-📄 **[Read the Complete Technical Documentation & Viva Guide →](./RAG_Based_AI_Project_Complete_Technical_Guide.pdf)**
-
-The documentation includes:
-
-- Complete project architecture
-- Detailed technology explanation
-- File-by-file explanation
-- RAG workflow
-- 5-minute teacher explanation
-- Complete technical story
-- Interview & viva questions
-- Project limitations
-- Future improvements
-
----
-
 ## 🔮 Future Improvements
 
 - 🌐 Build a web interface
