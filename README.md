@@ -95,29 +95,6 @@ The system finds the most relevant transcript segments, identifies the video and
 
 ---
 
-## 📂 Project Structure
-
-```text
-rag-based-ai/
-│
-├── videos/              # Original videos
-├── audio/               # Extracted MP3 files
-├── jsons/               # Timestamped transcripts
-│
-├── process_video.py     # Video → MP3
-├── create_chunks.py     # Whisper transcription
-├── speech_to_text.py    # Speech-to-text example
-├── read_chunks.py       # Generate embeddings
-├── process_incoming.py  # RAG question-answer pipeline
-│
-├── embeddings.joblib    # Stored embeddings
-├── prompt.txt           # Generated RAG prompt
-├── response.txt         # Generated response
-└── README.md
-```
-
----
-
 ## 🧠 RAG Pipeline
 
 This project follows three main RAG stages:
@@ -133,43 +110,6 @@ The **top 5 relevant transcript chunks** are added to the LLM prompt along with 
 ### 3. 🤖 Generation
 
 **Llama 3.2** receives the retrieved context and generates the final answer.
-
----
-
-## ⚙️ Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Aayesha2103/rag-based-ai.git
-cd rag-based-ai
-```
-
-### 2. Install dependencies
-
-```bash
-pip install openai-whisper pandas numpy scikit-learn joblib requests
-```
-
-### 3. Install and prepare Ollama
-
-The project uses:
-
-```text
-bge-m3      → Embeddings
-llama3.2    → Answer Generation
-```
-
-Make sure Ollama is running locally and the required models are available.
-
-### 4. Run the pipeline
-
-```bash
-python process_video.py
-python create_chunks.py
-python read_chunks.py
-python process_incoming.py
-```
 
 ---
 
