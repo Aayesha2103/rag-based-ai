@@ -127,28 +127,6 @@ The **top 5 relevant transcript chunks** are added to the LLM prompt along with 
 
 ---
 
-## 👩‍💻 Author
-
-### Aayesha Singh
-
-**AI / ML & Data Science Enthusiast**
-
-🔗 **[GitHub Profile →](https://github.com/Aayesha2103)**
-
----
-
-## ⭐ Project Repository
-
-🚀 **[View RAG-Based AI Project →](https://github.com/Aayesha2103/rag-based-ai)**
-
----
-
-## 📚 Project Documentation
-
-📄 **[Complete Technical Documentation & Viva Guide →](./RAG_Based_AI_Project_Complete_Technical_Guide.pdf)**
-
----
-
 <p align="center">
   ⭐ If you found this project interesting, consider giving it a star!
 </p>
